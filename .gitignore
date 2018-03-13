@@ -1,2 +1,3 @@
 hosts
-myWebsite/
+myWebsite/website/
+myWebsite/flask_env/
