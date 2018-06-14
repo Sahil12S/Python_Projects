@@ -27,4 +27,5 @@ def about():
 # If we import this script from another script, then __name__ will be equals to __script1__
 # Script is whole code from line1 to last line.
 if __name__ == "__main__":
-	app.run(debug = True)
+	app.run(host='0.0.0.0')
+#	app.run(debug = True)
