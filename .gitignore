@@ -1,3 +1,5 @@
 hosts
 myWebsite/website/
 myWebsite/flask_env/
+BookStore/books.db
+OpenCV/
